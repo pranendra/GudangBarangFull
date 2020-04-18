@@ -58,10 +58,20 @@
                                 </div>
                                 @endif
 
+<<<<<<< HEAD
                                 <div class="col-6">
                                     <button class="btn btn-primary px-4">Login</button>
                                 </div>
                                 <div class="col-6 text-right">
+=======
+                                <div class="col-4">
+                                    <button class="btn btn-primary px-4">Login</button>
+                                </div>
+                                <div class="col-4 text-right">
+                                    <a href="/register"><button class="btn btn-link px-0" type="button">Register</button></a>
+                                </div>
+                                <div class="col-4 text-right">
+>>>>>>> 3e7ecab9f877830c66e555c2aa8176cdf8f7a5fd
                                     <button class="btn btn-link px-0" type="button">Forgot password?</button>
                                 </div>
                             </div>

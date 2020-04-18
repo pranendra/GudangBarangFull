@@ -26,7 +26,11 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="row">
+<<<<<<< HEAD
                                     <div class="col-md-12 offset-md-3">
+=======
+                                    <div class="col-md-6 offset-md-3">
+>>>>>>> 3e7ecab9f877830c66e555c2aa8176cdf8f7a5fd
                                         
                                         @if($errors->any())
                                             <div class="alert alert-danger">

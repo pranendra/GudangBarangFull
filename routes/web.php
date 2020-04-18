@@ -21,6 +21,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/persediaanbarang.index', 'PersediaanBarangController@index');
 Route::get('/search', 'PersediaanBarangController@search');
 Route::delete('/deleteall', 'PersediaanBarangController@deleteAll');
+<<<<<<< HEAD
 Route::resource('persediaanbarang', 'PersediaanBarangController');
 
 // Route::get('/crud', 'CRUDController@create');
@@ -40,3 +41,12 @@ Route::get('/laporanbarang.index', 'LaporanBarangController@index');
 Route::get('/search', 'LaporanBarangController@search');
 Route::delete('/deleteall', 'LaporanBarangController@deleteAll');
 Route::resource('laporanbarang', 'LaporanBarangController');
+=======
+// Route::get('/crud', 'CRUDController@create');
+Route::resource('persediaanbarang', 'PersediaanBarangController');
+// Route::resource('cruds', 'CRUDController');
+Route::get('/persediaanakhir.index', 'PersediaanAkhirController@index');
+Route::get('/search', 'PersediaanAkhirController@search');
+Route::delete('/deleteall', 'PersediaanAkhirController@deleteAll');
+Route::resource('persediaanakhir', 'PersediaanAkhirController');
+>>>>>>> 3e7ecab9f877830c66e555c2aa8176cdf8f7a5fd

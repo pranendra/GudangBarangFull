@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3e7ecab9f877830c66e555c2aa8176cdf8f7a5fd
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -76,3 +80,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<<<<<<< HEAD
+=======
+=======
+# GudangBarangFull
+UTS Laravel
+>>>>>>> e7877ce562f50b25dd9aee9c823d537cda77c797
+>>>>>>> 3e7ecab9f877830c66e555c2aa8176cdf8f7a5fd
